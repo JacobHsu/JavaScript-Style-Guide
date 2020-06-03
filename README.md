@@ -19,10 +19,6 @@ Other Style Guides
   - [Ruby](https://github.com/airbnb/ruby)
 
 
-###　package.json
-
-```json
-"engines": {
-    "gitbook": "*"
-}
-```
+{% hint style="info" %}
+:man_mage: gitbook doc [markdown](https://docs.gitbook.com/editing-content/markdown)
+{% endhint %}
