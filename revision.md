@@ -6,4 +6,5 @@
   * https://github.com/airbnb/javascript
   * Gitbook Back to Top Button Plugin
   * [gitbook使用教程](https://segmentfault.com/a/1190000017960359) gitbook install  gitbook serve
+  * Types, References
 
