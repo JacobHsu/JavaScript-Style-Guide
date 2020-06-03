@@ -41,7 +41,7 @@
 [**⬆ back to top**](types.md)
 
 {% hint style="info" %}
-Hints and Callouts  
+📖 Hints and Callouts  
 [**https://docs.gitbook.com/editing-content/markdown**](https://docs.gitbook.com/editing-content/markdown)\*\*\*\*
 {% endhint %}
 

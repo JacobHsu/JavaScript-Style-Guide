@@ -17,6 +17,6 @@ Other Style Guides
 * [Ruby](https://github.com/airbnb/ruby)
 
 {% hint style="info" %}
-🧙♂gitbook doc [markdown](https://docs.gitbook.com/editing-content/markdown)
+🧙♂gitbook doc [markdown](https://docs.gitbook.com/editing-content/markdown) 
 {% endhint %}
 
