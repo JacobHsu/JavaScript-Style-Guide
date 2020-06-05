@@ -1,6 +1,6 @@
 # Objects
 
-## Use the literal syntax for object creation
+## literal syntax
 
   <a name="objects--no-new"></a><a name="3.1"></a>
   - [3.1](#objects--no-new) Use the literal syntax for object creation. eslint: [`no-new-object`](https://eslint.org/docs/rules/no-new-object.html)
@@ -13,7 +13,7 @@
     const item = {};
     ```
 
-##  Use computed property names when creating objects with dynamic property names.
+## computed property
 
   <a name="es6-computed-properties"></a><a name="3.4"></a>
   - [3.2](#es6-computed-properties) Use computed property names when creating objects with dynamic property names.
@@ -41,7 +41,7 @@
     };
     ```
 
-## Use object method shorthand
+## object method shorthand
 
   <a name="es6-object-shorthand"></a><a name="3.5"></a>
   - [3.3](#es6-object-shorthand) Use object method shorthand. eslint: [`object-shorthand`](https://eslint.org/docs/rules/object-shorthand.html)
@@ -66,7 +66,7 @@
     };
     ```
 
-## Use property value shorthand
+## property value shorthand
 
   <a name="es6-object-concise"></a><a name="3.6"></a>
   - [3.4](#es6-object-concise) Use property value shorthand. eslint: [`object-shorthand`](https://eslint.org/docs/rules/object-shorthand.html)
@@ -117,7 +117,7 @@
     };
     ```
 
-## Only quote properties that are invalid identifiers
+## Only quote properties that
 
   <a name="objects--quoted-props"></a><a name="3.8"></a>
   - [3.6](#objects--quoted-props) Only quote properties that are invalid identifiers. eslint: [`quote-props`](https://eslint.org/docs/rules/quote-props.html)
@@ -140,7 +140,7 @@
     };
     ```
 
-## Do not call `Object.prototype` methods directly
+## call `Object.prototype` methods 
 
   <a name="objects--prototype-builtins"></a>
   - [3.7](#objects--prototype-builtins) Do not call `Object.prototype` methods directly, such as `hasOwnProperty`, `propertyIsEnumerable`, and `isPrototypeOf`. eslint: [`no-prototype-builtins`](https://eslint.org/docs/rules/no-prototype-builtins)
@@ -162,7 +162,7 @@
     console.log(has(object, key));
     ```
 
-## Prefer the object spread operator over [`Object.assign`]
+##  over [`Object.assign`]
 
   <a name="objects--rest-spread"></a>
   - [3.8](#objects--rest-spread) Prefer the object spread operator over [`Object.assign`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) to shallow-copy objects. Use the object rest operator to get a new object with certain properties omitted.
