@@ -4,3 +4,4 @@
 * [Types](types.md)
 * [References](references.md)
 * [Objects](objects.md)
+* [Arrays](arrays.md)
