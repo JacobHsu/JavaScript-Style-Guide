@@ -5,3 +5,4 @@
 * [References](references.md)
 * [Objects](objects.md)
 * [Arrays](arrays.md)
+* [Destructuring](destructuring.md)
