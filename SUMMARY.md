@@ -7,3 +7,4 @@
 * [Arrays](arrays.md)
 * [Destructuring](destructuring.md)
 * [Strings](strings.md)
+* [Functions](functions.md)
