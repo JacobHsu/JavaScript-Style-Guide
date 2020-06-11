@@ -42,7 +42,7 @@
   <a name="functions--in-blocks"></a><a name="7.3"></a>
   - [7.3](#functions--in-blocks) Never declare a function in a non-function block (`if`, `while`, etc). Assign the function to a variable instead. Browsers will allow you to do it, but they all interpret it differently, which is bad news bears. eslint: [`no-loop-func`](https://eslint.org/docs/rules/no-loop-func.html)
 
-## A function declaration is not a statement
+## statement
 
   <a name="functions--note-on-blocks"></a><a name="7.4"></a>
   - [7.4](#functions--note-on-blocks) **Note:** ECMA-262 defines a `block` as a list of statements. A function declaration is not a statement.
@@ -237,7 +237,7 @@
       // ...
     }
     ```
-    
+
 ## variadic functions
   <a name="functions--spread-vs-apply"></a><a name="7.14"></a>
   - [7.14](#functions--spread-vs-apply) Prefer the use of the spread operator `...` to call variadic functions. eslint: [`prefer-spread`](https://eslint.org/docs/rules/prefer-spread)
