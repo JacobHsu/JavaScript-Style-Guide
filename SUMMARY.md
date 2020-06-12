@@ -9,3 +9,4 @@
 * [Strings](strings.md)
 * [Functions](functions.md)
 * [Arrow Functions](arrow-functions.md)
+* [Classes & Constructors](constructors.md)

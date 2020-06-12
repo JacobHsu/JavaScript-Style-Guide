@@ -1,5 +1,8 @@
 # 修訂記錄
 
+* 0.1.7: 2020-6-12
+  * Classes & Constructors
+
 * 0.1.6: 2020-6-11
   * Arrow Functions
 

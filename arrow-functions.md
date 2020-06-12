@@ -1,5 +1,7 @@
 # Arrow Functions
 
+箭頭函數 可以消除 傳統匿名表達式 `this` 的問題
+
 ## anonymous function
 
   <a name="arrows--use-them"></a><a name="8.1"></a>
