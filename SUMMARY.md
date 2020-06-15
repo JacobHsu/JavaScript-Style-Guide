@@ -10,3 +10,4 @@
 * [Functions](functions.md)
 * [Arrow Functions](arrow-functions.md)
 * [Classes & Constructors](constructors.md)
+* [Modules](modules.md)

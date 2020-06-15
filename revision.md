@@ -1,5 +1,8 @@
 # 修訂記錄
 
+* 0.1.8: 2020-6-15
+  * Modules
+
 * 0.1.7: 2020-6-12
   * Classes & Constructors
 
