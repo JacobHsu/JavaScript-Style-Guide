@@ -1,5 +1,9 @@
 # 修訂記錄
 
+* 0.1.9: 2020-6-16
+  * Iterators and Generators
+  * Properties
+  
 * 0.1.8: 2020-6-15
   * Modules
 
