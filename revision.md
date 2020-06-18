@@ -1,5 +1,8 @@
 # 修訂記錄
 
+* 0.1.10: 2020-6-18
+  * Variables
+
 * 0.1.9: 2020-6-16
   * Iterators and Generators
   * Properties
