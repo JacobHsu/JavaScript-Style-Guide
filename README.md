@@ -21,4 +21,3 @@ Other Style Guides
 {% hint style="info" %}
 🧙♂gitbook doc [markdown](https://docs.gitbook.com/editing-content/markdown) 
 {% endhint %}
-
