@@ -1,5 +1,8 @@
 # 修訂記錄
 
+* 0.1.12: 2020-6-20
+  * Comparison Operators & Equality
+
 * 0.1.11: 2020-6-19
   * Hoisting
 

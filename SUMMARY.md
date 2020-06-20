@@ -15,3 +15,4 @@
 * [Properties](properties.md)
 * [Variables](variables.md)
 * [Hoisting](hoisting.md)
+* [Comparison Operators & Equality](equality.md)
