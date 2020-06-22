@@ -16,3 +16,5 @@
 * [Variables](variables.md)
 * [Hoisting](hoisting.md)
 * [Comparison Operators & Equality](equality.md)
+* [Blocks](blocks.md)
+* [Control Statements](control-statements.md)
