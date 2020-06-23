@@ -18,3 +18,5 @@
 * [Comparison Operators & Equality](equality.md)
 * [Blocks](blocks.md)
 * [Control Statements](control-statements.md)
+* [Comments](comments.md)
+* [Whitespace](whitespace.md)

@@ -1,5 +1,9 @@
 # 修訂記錄
 
+* 0.1.14: 2020-6-23
+  * Comments
+  * Whitespace
+
 * 0.1.13: 2020-6-22
   * Blocks
   * Control Statements
