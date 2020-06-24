@@ -1,5 +1,9 @@
 # 修訂記錄
 
+* 0.1.15: 2020-6-24
+  * Commas
+  * Semicolons
+
 * 0.1.14: 2020-6-23
   * Comments
   * Whitespace

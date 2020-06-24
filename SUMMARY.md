@@ -20,3 +20,5 @@
 * [Control Statements](control-statements.md)
 * [Comments](comments.md)
 * [Whitespace](whitespace.md)
+* [Commas](commas.md)
+* [Semicolons](semicolons.md)
