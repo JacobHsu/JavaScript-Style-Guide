@@ -22,3 +22,4 @@
 * [Whitespace](whitespace.md)
 * [Commas](commas.md)
 * [Semicolons](semicolons.md)
+* [Type Casting & Coercion](type-casting.md)

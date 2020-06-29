@@ -1,5 +1,8 @@
 # 修訂記錄
 
+* 0.1.16: 2020-6-29
+  * Type Casting & Coercion
+
 * 0.1.15: 2020-6-24
   * Commas
   * Semicolons
