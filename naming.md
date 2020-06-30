@@ -215,6 +215,8 @@
     ];
     ```
 
+## uppercase
+
   <a name="naming--uppercase"></a>
   - [23.10](#naming--uppercase) You may optionally uppercase a constant only if it (1) is exported, (2) is a `const` (it can not be reassigned), and (3) the programmer can trust it (and its nested properties) to never change.
 
