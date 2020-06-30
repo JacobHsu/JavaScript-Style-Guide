@@ -1,5 +1,8 @@
 # 修訂記錄
 
+* 0.1.17: 2020-6-30
+  * Naming Conventions
+
 * 0.1.16: 2020-6-29
   * Type Casting & Coercion
 
