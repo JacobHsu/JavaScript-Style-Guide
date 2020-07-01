@@ -24,3 +24,5 @@
 * [Semicolons](semicolons.md)
 * [Type Casting & Coercion](type-casting.md)
 * [Naming Conventions](naming.md)
+* [Accessors](accessors.md)
+* [Events](events.md)

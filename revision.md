@@ -1,5 +1,9 @@
 # 修訂記錄
 
+* 0.1.18: 2020-7-01
+  * Accessors
+  * Events
+
 * 0.1.17: 2020-6-30
   * Naming Conventions
 
